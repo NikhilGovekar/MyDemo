@@ -1,3 +1,3 @@
 # MyDemo
 This is my first project
-Author - Nikhil Govekar
+Author - Nikhil Govekar -- IT Trainer
